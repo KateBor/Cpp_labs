@@ -10,11 +10,11 @@
   - (c) Если key1 и key2 одинаковые, то по возрастанию длины строки str.
 3. Выводит полученный вектор на печать.
 DataStruct определена следующим образом:
-```c
+```cpp
 struct DataStruct
 {
-int key1;
-int key2;
-std::string str;
+  int key1;
+  int key2;
+  std::string str;
 };
 ```
